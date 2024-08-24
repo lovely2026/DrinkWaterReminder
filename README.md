@@ -1,1 +1,1 @@
-# DrinkWaterReminder.py
+# DrinkWaterReminder
